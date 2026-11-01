@@ -1,0 +1,15 @@
+sku,nombre,categoria,precio_cop,stock,devolvible,descripcion,materiales,cuidados
+ECO-001,Cepillo de bambú (juego x4),higiene,24000,120,solo sin abrir,Cepillos de dientes con mango de bambú y cerdas suaves. Pack de 4 unidades.,Bambú y cerdas de nailon libre de BPA,Dejar secar al aire después de cada uso. Cambiar cada 3 meses.
+ECO-002,Detergente ecológico 1L,hogar,32000,85,sí,Detergente líquido para ropa. Biodegradable y sin fosfatos. Rinde 30 lavadas.,Tensoactivos de origen vegetal,Guardar en un lugar fresco. No mezclar con cloro.
+ECO-003,Snacks orgánicos (mix frutos secos),alimentos_perecederos,18500,60,no,"Mezcla de almendras, maní y uvas pasas de cultivo orgánico. Bolsa de 250 g.",Frutos secos orgánicos,Consumir antes de la fecha de vencimiento. Guardar cerrado.
+ECO-004,Botella reutilizable de acero,hogar,45000,0,sí,Botella de acero inoxidable de 750 ml. Mantiene bebidas frías 24 horas y calientes 12 horas.,Acero inoxidable 304,Lavar a mano. No meter al congelador.
+ECO-005,Panel solar portátil 20W,electronica,289000,14,sí,Panel solar plegable de 20W con salida USB. Sirve para cargar celulares y baterías externas.,Silicio monocristalino y lona,No doblar las celdas. Limpiar con un paño seco.
+ECO-006,Desodorante natural en barra,higiene,21000,40,solo sin abrir,Desodorante sin aluminio ni parabenos. Aroma lavanda. 60 g.,Bicarbonato y aceite de coco,Guardar lejos del calor.
+ECO-007,Set de contenedores de vidrio,hogar,78000,25,sí,Set de 3 contenedores de vidrio templado con tapa de bambú. Aptos para microondas sin la tapa.,Vidrio templado y bambú,No poner la tapa en el microondas ni en el lavavajillas.
+ECO-008,Yogur vegetal (pack x6),alimentos_perecederos,27000,30,no,Yogur a base de coco sin azúcar añadida. 6 unidades de 150 g.,Leche de coco y cultivos lácteos veganos,Mantener refrigerado entre 2 y 6 °C.
+ECO-009,Mochila hecha de material reciclado,moda,135000,18,sí,Mochila de 20 litros con compartimento para portátil de 15 pulgadas.,Tela de botellas PET recicladas,Lavar a mano con agua fría.
+ECO-010,Cargador solar para celular,electronica,95000,0,sí,Batería externa de 10.000 mAh con panel solar integrado. Dos salidas USB.,Plástico reciclado y silicio,Cargar por completo antes del primer uso.
+ECO-011,Jabón artesanal (pack x3),higiene,26000,70,solo sin abrir,Jabones hechos a mano con aceite de oliva. 3 unidades de 100 g.,Aceite de oliva y glicerina vegetal,Guardar en un lugar seco.
+ECO-012,Pitillos de acero (set x4),hogar,15000,200,sí,Pitillos de acero inoxidable con cepillo limpiador incluido.,Acero inoxidable,Lavar con el cepillo incluido.
+ECO-013,Bolsas de tela para mercado (x3),hogar,22000,150,sí,Bolsas de algodón reutilizables que soportan hasta 10 kg cada una.,Algodón orgánico,Se pueden lavar en lavadora.
+ECO-014,Champú sólido,higiene,29000,55,solo sin abrir,Champú en barra para cabello normal. Equivale a 2 botellas de champú líquido.,Aceite de coco y extracto de romero,Guardar seco entre usos.

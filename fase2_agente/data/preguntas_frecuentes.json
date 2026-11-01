@@ -1,0 +1,80 @@
+[
+  {
+    "id": "FAQ-01",
+    "tema": "pagos",
+    "pregunta": "¿Qué medios de pago aceptan?",
+    "respuesta": "Aceptamos tarjeta de crédito, tarjeta débito, PSE y pago contra entrega. El pago contra entrega solo está disponible en Bogotá, Medellín y Cali, y para compras de máximo 500.000 COP."
+  },
+  {
+    "id": "FAQ-02",
+    "tema": "pagos",
+    "pregunta": "¿Puedo pagar en cuotas?",
+    "respuesta": "Sí. Si pagas con tarjeta de crédito puedes elegir el número de cuotas que te permita tu banco. EcoMarket no cobra intereses adicionales; los intereses dependen de tu banco."
+  },
+  {
+    "id": "FAQ-03",
+    "tema": "pedidos",
+    "pregunta": "¿Cómo sé dónde está mi pedido?",
+    "respuesta": "Puedes consultar el estado con tu número de seguimiento, que tiene el formato ECM-XXXX y llega a tu correo cuando haces la compra. También lo ves en la sección 'Mis pedidos'."
+  },
+  {
+    "id": "FAQ-04",
+    "tema": "pedidos",
+    "pregunta": "¿Puedo cambiar la dirección de entrega después de comprar?",
+    "respuesta": "Solo si el pedido está en estado 'pendiente de despacho'. Escríbenos por el chat con tu número de seguimiento y la nueva dirección. Si el pedido ya fue despachado, no se puede cambiar la dirección."
+  },
+  {
+    "id": "FAQ-05",
+    "tema": "productos",
+    "pregunta": "¿Sus productos son realmente ecológicos?",
+    "respuesta": "Todos nuestros productos cumplen al menos una de estas condiciones: están hechos con materiales reciclados, son biodegradables, son reutilizables o vienen de cultivo orgánico. En la ficha de cada producto indicamos sus materiales."
+  },
+  {
+    "id": "FAQ-06",
+    "tema": "productos",
+    "pregunta": "¿Qué pasa si un producto está agotado?",
+    "respuesta": "Si un producto tiene stock 0, no se puede comprar. Puedes activar la opción 'Avísame' en la ficha del producto y te enviamos un correo cuando vuelva a estar disponible. Normalmente reponemos inventario en 2 a 3 semanas."
+  },
+  {
+    "id": "FAQ-07",
+    "tema": "empaque",
+    "pregunta": "¿Cómo empacan los pedidos?",
+    "respuesta": "Usamos cajas de cartón reciclado y relleno de papel. No usamos plástico de burbujas ni icopor. Las cajas se pueden reciclar o compostar."
+  },
+  {
+    "id": "FAQ-08",
+    "tema": "cuenta",
+    "pregunta": "¿Necesito crear una cuenta para comprar?",
+    "respuesta": "No. Puedes comprar como invitado con tu correo. Pero si creas una cuenta puedes ver el historial de pedidos y solicitar devoluciones más rápido desde 'Mis pedidos'."
+  },
+  {
+    "id": "FAQ-09",
+    "tema": "facturacion",
+    "pregunta": "¿Cómo pido factura electrónica?",
+    "respuesta": "Al pagar, marca la casilla 'Necesito factura electrónica' y escribe tu NIT o cédula. La factura llega a tu correo en máximo 24 horas. Si olvidaste pedirla, escríbenos por el chat en los 5 días siguientes a la compra."
+  },
+  {
+    "id": "FAQ-10",
+    "tema": "programa",
+    "pregunta": "¿Tienen un programa de puntos o descuentos?",
+    "respuesta": "Sí, el programa EcoPuntos. Por cada 1.000 COP de compra recibes 1 EcoPunto. Con 100 EcoPuntos obtienes un descuento de 10.000 COP en tu siguiente compra. Los puntos vencen a los 12 meses."
+  },
+  {
+    "id": "FAQ-11",
+    "tema": "programa",
+    "pregunta": "¿Reciben empaques usados para reciclar?",
+    "respuesta": "Sí. Si nos devuelves 5 envases vacíos de nuestros productos de higiene o limpieza en cualquier entrega, te damos 50 EcoPuntos. Los envases deben estar limpios."
+  },
+  {
+    "id": "FAQ-12",
+    "tema": "tiendas",
+    "pregunta": "¿Tienen tiendas físicas?",
+    "respuesta": "No. EcoMarket solo vende en línea por el sitio web y la aplicación móvil. A veces participamos en ferias, pero esas compras no las cubre la política de devoluciones de la tienda en línea."
+  },
+  {
+    "id": "FAQ-13",
+    "tema": "devoluciones",
+    "pregunta": "¿Qué hago si un producto me llegó dañado, vencido o equivocado?",
+    "respuesta": "Repórtalo en máximo 5 días calendario después de la entrega y adjunta una foto del producto. Puedes elegir el cambio por el mismo producto o el reembolso completo. Esto aplica también a alimentos perecederos y productos de higiene."
+  }
+]
